@@ -1,10 +1,25 @@
 {
-	"name": "Quendy",
-
-	"dependencies": {
-
-	},
-	"overrides": {
-
-	}
+  "name": "Quendi",
+  "version": "1.0.0",
+  "homepage": "https://github.com/powercodelab/Quendi",
+  "authors": [
+    "Powercoder Labs."
+  ],
+  "description": "Quendi - Collaborative Blogging Platform",
+  "keywords": [
+    "quendi",
+    "laravel",
+    "blogging",
+    "platform"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/assets/components",
+    "test",
+    "tests"
+  ]
 }

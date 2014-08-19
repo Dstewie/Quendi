@@ -1,6 +1,6 @@
 {
-	"name": "Quendy",
-	"description": "Quendy - Collaborative blogging platform",
+	"name": "Quendi",
+	"description": "Quendi - Collaborative blogging platform",
 	"keywords": ["framework", "laravel", "blog", "collaboration", "platform"],
 	"license": "MIT",
 	"require": {
