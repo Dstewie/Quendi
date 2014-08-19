@@ -1,7 +1,7 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
+	"name": "Quendy",
+	"description": "Quendy - Collaborative blogging platform",
+	"keywords": ["framework", "laravel", "blog", "collaboration", "platform"],
 	"license": "MIT",
 	"require": {
 		"laravel/framework": "4.2.*"
